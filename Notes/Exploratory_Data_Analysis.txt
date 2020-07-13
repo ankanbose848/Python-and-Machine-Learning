@@ -1,0 +1,9 @@
+
+I. FEATURE ENGINEERING
+
+Step 1: Handle the missing values of a dataset.
+
+Step 2: Handle the Categorical features
+
+Step 3: Feature selection
+
